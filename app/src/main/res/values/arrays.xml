@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="municipality_info">
+        <item>Beijing is the capital of China. It has a long history and many famous landmarks such as the Great Wall and the Forbidden City.</item>
+        <item>Shanghai is a modern international city. It is famous for its skyline, the Bund and fast economic development.</item>
+        <item>Tianjin is a coastal municipality near Beijing. It mixes western-style buildings and traditional local food culture.</item>
+        <item>Chongqing is a mountain city in southwest China. It is well-known for hot pot and unique layered city scenery.</item>
+    </string-array>
 </resources>
